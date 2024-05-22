@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DIPA ROY
-- 👀 I’m interested in ANDROID DEVELOPMENT
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on AN ANDROID APP
+- 👀 I’m interested in APPLICATION DEVELOPMENT
+- 🌱 I’m currently learning FLUTTER
+- 💞️ I’m looking to collaborate on AN APPLICATION
 - 📫 How to reach me DIPAROY2410@GMAIL.COM
 
 <!---
