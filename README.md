@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **React Native and Node.js**
 
-- 👨‍💻 All of my projects are available at [Dipa Roy | Software Developer](https://diparoy.carrd.co/)
+- 👨‍💻 My Portfolio is available at [Dipa Roy | Software Developer](https://diparoy.carrd.co/)
 
-- 💬 Ask me about **Android Studio, Flutter, Python, UI/UX**
+- 💬 Ask me about **Android Studio, Flutter, Python & UI/UX**
 
 - 📫 How to reach me **diparoy2410@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qvQw9JfUDblrKWDZbwKizLkNB8wj90-g/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny >o<**
+- ⚡ Fun fact **I'm Lazy yet workaholic >o<**
 
 ---
 
