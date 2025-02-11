@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DIPA2410/DIPA2410/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/DIPA2410/DIPA2410/output/snake.svg](https://github.com/DIPA2410/DIPA2410/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
