@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dipa Roy</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img src="https://github.com/user-attachments/assets/e6484aa4-8ac6-48ad-9bd0-bdf13283f881" alt="Dipa Roy" />
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace;">Hi 👋, I'm Dipa Roy</h1>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A passionate Software Developer from India</h3>
 
 - 🔭 I’m currently working on **React Native AI Video App**
 
 - 🌱 I’m currently learning **React Native and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://diparoy.carrd.co/](https://diparoy.carrd.co/)
+- 👨‍💻 All of my projects are available at [Dipa Roy | Software Developer](https://diparoy.carrd.co/)
 
 - 💬 Ask me about **Android Studio, Flutter, Python, UI/UX**
 
@@ -30,7 +31,6 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
