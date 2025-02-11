@@ -67,13 +67,6 @@
   </table>
 </div>
 
----
-
-<h3 align="center">Snake Animation</h3>
-<p align="center">
-  <img src=<img src="https://raw.githubusercontent.com/DIPA2410/DIPA2410/output/snake.svg" alt="Snake animation" />
-</p>
-
 <!---
 DIPA2410/DIPA2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
