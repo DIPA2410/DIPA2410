@@ -27,6 +27,24 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipa2410&show_icons=true&locale=en&layout=compact" alt="dipa2410" /></p>
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DIPA2410/DIPA2410/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DIPA2410&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
+
 
 <!---
 DIPA2410/DIPA2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
