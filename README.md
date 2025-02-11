@@ -71,16 +71,8 @@
 
 <h3 align="center">Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/DIPA2410/DIPA2410/blob/output/snake.svg" alt="Snake animation" />
+  <img src=<img src="https://raw.githubusercontent.com/DIPA2410/DIPA2410/output/snake.svg" alt="Snake animation" />
 </p>
-
----
-
-<h3 align="center">Latest Medium Posts</h3>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DIPA2410&theme=default" alt="Layout with last medium posts" />
-</div>
-
 
 <!---
 DIPA2410/DIPA2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
