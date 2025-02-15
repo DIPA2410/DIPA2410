@@ -2,7 +2,7 @@
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace;">Hi 👋, I'm Dipa Roy</h1>
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Super Secret App**
+- 🔭 I’m currently working on **Super Secret App 🦄**
 
 - 🌱 I’m currently learning **React Native and Node.js**
 
