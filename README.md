@@ -18,6 +18,16 @@
 
 ---
 
+<h3>My Figma Designs</h3>
+<p>
+  📌 Check out my UI/UX work: <a href="https://figma-designs-by-dipa.carrd.co/">Figma Designs by Dipa</a>
+</p>
+<p>
+  <img src="https://i.pinimg.com/originals/2e/78/e5/2e78e5191dd5e6540da01ccf56a05dbb.gif" width="200" />
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_dipa_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dipa_roy" height="30" width="40" /></a>
